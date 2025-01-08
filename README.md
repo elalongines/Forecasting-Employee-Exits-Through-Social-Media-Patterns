@@ -1,17 +1,12 @@
 # Forecasting-Employee-Exits-Through-Social-Media-Patterns
-
 Predicting employee turnover using social media data, leveraging deep learning and sentiment analysis models.
 
-# Online Footprints: Forecasting Employee Exits Through Social Media Patterns
-
-This repository contains the code, data preprocessing scripts, and research documentation for the project titled "Online Footprints: Forecasting Employee Exits Through Social Media Patterns." This study is part of the requirements for the MSc in Applied Information and Data Science at Lucerne University of Applied Sciences and Arts.
-# Online Footprints: Forecasting Employee Exits Through Social Media Patterns
-
-This repository contains the code, data preprocessing scripts, and research documentation for the project titled **"Online Footprints: Forecasting Employee Exits Through Social Media Patterns."** This study is part of the requirements for the MSc in Applied Information and Data Science at Lucerne University of Applied Sciences and Arts.
+## About the Project
+This repository hosts the code, data preprocessing scripts, and research documentation for the project: "Online Footprints: Forecasting Employee Exits Through Social Media Patterns"
+This project is part of the MSc in Applied Information and Data Science program at Lucerne University of Applied Sciences and Arts
 
 ## Overview
-
-The study aims to analyze employee turnover by leveraging social media interaction patterns and sentiment analysis using advanced deep learning techniques. It focuses on predicting turnover among frontline workers by exploring the Avolta dataset, sourced through the Beekeeper platform.
+The study investigates employee turnover using social media interaction patterns and sentiment analysis techniques. By leveraging the Avolta dataset, sourced via the Beekeeper platform, it applies cutting-edge deep learning models and sentiment analysis frameworks to predict employee exits among frontline workers.
 
 ### Key Research Questions
 1. **How effective are deep learning models in predicting employee turnover?**
