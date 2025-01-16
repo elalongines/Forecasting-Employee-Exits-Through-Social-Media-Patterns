@@ -15,7 +15,7 @@ The study investigates employee turnover using social media interaction patterns
 ## Methodology
 
 ### Data Sources
-- Data collected from the Beekeeper platform (January 2022 - April 2024).
+- Data collected from a platform (January 2022 - April 2024).
 - Includes various datasets such as comments, user posts, organizational structure, and user interaction patterns.
 
 ### Techniques
