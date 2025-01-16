@@ -28,6 +28,7 @@ The study investigates employee turnover using social media interaction patterns
 - **Sentiment Analysis**:
   - Valence Aware Dictionary and Sentiment Reasoner (VADER)
   - Distilled Bidirectional Encoder Representations from Transformers (DistilBERT)
+  - OpenAI GPT 3.5-Turbo
 
 ### Tools and Technologies
 - **Python**:
