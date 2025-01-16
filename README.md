@@ -32,8 +32,6 @@ The study investigates employee turnover using social media interaction patterns
 ### Tools and Technologies
 - **Python**:
   - Libraries: TensorFlow, Keras, PyTorch, Node2Vec, NetworkX, Pandas, Matplotlib, Scikit-learn, and Seaborn.
-- **Tableau**:
-  - Used for interactive data visualization and dashboards.
 
 
 
